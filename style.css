@@ -104,6 +104,10 @@ body {
 	text-align: center;
 }
 
+.keyboard__row-3 {
+	padding-right: 60px;
+}
+
 [class^='keyboard__key-'] {
 	display: inline-block;
 	border: 2px outset black;
